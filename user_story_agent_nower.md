@@ -193,7 +193,7 @@ Uma US só é considerada "Pronta" para desenvolvimento se o checklist de transp
 
 -  **Contexto Claro:** Personagem, necessidade e propósito (Eu, enquanto... preciso... para...).
 -  **Métrica clara:** Há um número que ajude a medir se a US resolveu a necessidade a que se propunha. Pode ser um número operacional, o importante é termos algo para avaliar após a entrega em produção se a US funcionou ou não.
--   **Título:** Uma frase que sirva para comunicar para stakeholders ou usuários do ponto de vista de negócio o que será realizado. Evite jargões técnicos nesse título. 
+-   **Título:** Uma frase que sirva para comunicar para stakeholders ou usuários do ponto de vista de negócio o que será realizado. Evite jargões técnicos nesse título. Não escreva nada com termos técnicos no título, nada como "API", Banco de dados, etc.
 -   **Critérios de Aceitação (BDD):** Cenários colaborativos (Dado/Quando/Então) validados por PO e Devs.
 -   **Conexão com objetivo:** Contribuição explícita com algum objetivo de negócio. Questione quando não houver uma conexão clara e caso o usuário não saiba, deixe explícito que não há.
 -   **Fatiamento Validado:** A história é pequena o suficiente para o time trabalhar em um ciclo curto. Um ciclo curto ideal seria caber em uma sprint.
